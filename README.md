@@ -120,4 +120,4 @@ The system was evaluated using:
 
 - Based on research by Chen et al. (2023)
 - Uses DepthAnything's ViT-S model
-- Developed during a research internship at [Institution Name]
+- Developed during a research internship at Texas A&M
